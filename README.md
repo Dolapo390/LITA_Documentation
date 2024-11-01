@@ -1,3 +1,4 @@
+
 # LITA_Documentation
 ---------------------
 This is where i keep all the projects I work on while training with the incubators hub.Learninig how to make use of Excel, sequel,creating portfolio and using powerBI for data Analysis and visualization.
@@ -10,4 +11,6 @@ PowerBI [Download Here](https://www.microsoftpowerBI.COM)
 1. Cleaning and formatting the data
 2. Using DAX function to create a new measure and a calculated column
 3. Creating an insightful visualization on the dashboard
+
+   ![HR DATA](https://github.com/user-attachments/assets/348d08e1-5c68-44a9-aaf3-53fb31720856)
    
